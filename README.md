@@ -40,3 +40,5 @@ venv\Scripts\activate
 
 2. Open the following URL in a browser (preferably on Chrome or Firefox):
    http://127.0.0.1:8000/
+
+holi
